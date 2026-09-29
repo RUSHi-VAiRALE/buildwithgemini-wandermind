@@ -122,8 +122,3 @@ Follow these steps to run Wandermind locally.
 
 3. Open your browser and navigate to the local server address displayed in the terminal output.
 
----
-
-## 🛡️ License & Acknowledgments
-
-Built for the **Google Build with Google Track 2 Workshop / Agentic AI Hackathon** using Google Agent Development Kit (ADK), Vertex AI Agent Runtime, and Gemini models.
